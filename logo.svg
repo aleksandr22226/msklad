@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300">
+  <g fill="none" stroke="#ea580c" stroke-linecap="round" stroke-linejoin="round" transform="translate(130 6) scale(1.6)">
+    <path d="M10 46 50 12l40 34" stroke-width="6"/>
+    <path d="M20 40v48h60V40" stroke-width="6"/>
+    <rect x="31" y="50" width="38" height="38" stroke-width="4.5"/>
+    <path d="M35 58h30M35 65h30M35 72h30M35 79h30" stroke-width="3"/>
+  </g>
+  <text x="210" y="232" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-weight="600" font-size="46" letter-spacing="2" fill="#ea580c">М-СКЛАД.РФ</text>
+  <text x="210" y="272" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-weight="500" font-size="19" letter-spacing="5" fill="#9a3412">МИНИ-СКЛАДЫ ДЛЯ ВСЕХ</text>
+</svg>
